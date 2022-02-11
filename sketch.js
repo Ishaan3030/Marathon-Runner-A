@@ -9,7 +9,7 @@ var invisibleGround
 var score=0
 
 function preload(){
-waitimg=loadImage("bg1.png")
+waitimg=loadImage("bg1.PNG")
 
 bgimg= loadImage("logo.gif")
 buttonimg=loadImage("button.png")
